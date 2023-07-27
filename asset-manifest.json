@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YOUdemy/static/css/main.e6c13ad2.css",
+    "main.js": "/YOUdemy/static/js/main.9852114b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/YOUdemy/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/YOUdemy/index.html",
+    "main.e6c13ad2.css.map": "/YOUdemy/static/css/main.e6c13ad2.css.map",
+    "main.9852114b.js.map": "/YOUdemy/static/js/main.9852114b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/YOUdemy/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9852114b.js"
+  ]
+}
